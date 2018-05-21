@@ -1,3 +1,4 @@
+
 os:
 - linux
 cache:
@@ -15,5 +16,5 @@ deploy:
   verbose: true
 notifications:
   email:
-    recipients: din.egen.epostadress@domän.se
+    recipients: tom_1995@msn.com
 
