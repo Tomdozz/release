@@ -3,7 +3,7 @@
 use \Slim\Slim as Slim;
 
 // Loads all dependencies
-require '../vendor/autoload.php';
+require '/vendor/autoload.php';
 require 'Utils.php';
 
 Slim::registerAutoloader();
